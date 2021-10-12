@@ -9,6 +9,8 @@ if x>99 and x<9999:
     print(s)
     print(d)
     print(j)
+else:
+    print("Błędna Liczba")
 
 
 
