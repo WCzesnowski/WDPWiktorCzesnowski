@@ -54,7 +54,8 @@ if b > a and b > c and b < (c+a):
             print("Trójkąt ostrokątny, równoramienny")
         else:
             print("Trójkąt ostrokątny, różnoboczny")
-
+else:
+    print("To nie są boki trójkąta")
 
 
 
