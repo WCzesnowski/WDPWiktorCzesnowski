@@ -1,0 +1,10 @@
+x = 3562
+j = (x%10)
+d = ((x - x%10)/10 % 10)
+s = ((x - x%100)/100 % 10)
+t = ((x - x%1000)/1000 % 10)
+print(j)
+print(d)
+print(s)
+print(t)
+print(j + t + s + d)
