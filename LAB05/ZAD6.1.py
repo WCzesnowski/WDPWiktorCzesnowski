@@ -11,13 +11,16 @@ for i in range(n):
     a[i] = [0] * m
     for j in range(m):
         a[i][j]= randint(0,20)
-for x in range(6):
-    x += 0
-    lista.append(a[x][x+1])
-    lista.append(a[x+1][x+1])
+y = 7
+while y >=0:
+    y -= 1
+    for x in range(y):
+        lista.append(a[x][x+(7-y)])
 
-
-print(a)
+for z in range(7):
+    print(a[z])
+print()
+print()
 print(lista)
 print(sum(lista))
 
