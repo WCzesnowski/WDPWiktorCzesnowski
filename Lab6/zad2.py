@@ -9,6 +9,6 @@ while sum(suma)+i <= liczba:
 
 
 print(suma)
-wynik = "W liczbie {} mieści się {} liczb pierwszych zaczynając od 1"
+wynik = "W liczbie {} mieści się {} pierwszych liczb naturalnych zaczynając od 1"
 wynik = wynik.format(liczba, len(suma))
 print(wynik)
