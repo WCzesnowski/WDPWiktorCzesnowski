@@ -4,7 +4,6 @@ from random import randint
 print("odgadnij jaką liczbą jest x")
 
 x = randint(1 , 100)
-print(x)
 próby = []
 while True:
     button = input()
