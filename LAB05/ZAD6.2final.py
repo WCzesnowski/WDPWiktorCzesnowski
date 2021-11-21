@@ -10,7 +10,7 @@ a = [0] * n
 for i in range(n):
     a[i] = [0] * m
     for j in range(m):
-        a[i][j]= randint(0,9)
+        a[i][j]= randint(0,20)
 while n >=0:
     n -= 1
     for x in range(n):
