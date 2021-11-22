@@ -72,4 +72,4 @@ while ruchy!=20:
 print("-------------")
 for i in range(7):
     print(A[i])
-
+print(Brawo!)
