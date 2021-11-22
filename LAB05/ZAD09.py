@@ -10,12 +10,15 @@ A = [
 ]
 x = 1
 y = 1
+c = 5
+u= 5
+posg = A[c][u]
+print(posg)
 pos= A[y][x]
 print(pos)
-for i in range(5):
+while pos != posg:
     button = input()
     if button == 'w':
-        del pos
         y -= 1
     elif button == 's':
         y += 1
