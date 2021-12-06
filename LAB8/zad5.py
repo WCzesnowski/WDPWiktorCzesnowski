@@ -9,4 +9,4 @@ def factorize(n):
                     print(num)
                     factorize(n // num)
 
-print(factorize(1470))
+print(factorize(50))
