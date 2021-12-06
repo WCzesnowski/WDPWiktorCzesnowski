@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="195b37a7-2027-407f-9bd8-5faf0a6d15f4" name="Changes" comment="zad2LAB9">
-      <change afterPath="$PROJECT_DIR$/LAB9/zad3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="195b37a7-2027-407f-9bd8-5faf0a6d15f4" name="Changes" comment="zad3LAB9">
+      <change beforePath="$PROJECT_DIR$/LAB9/zad3.py" beforeDir="false" afterPath="$PROJECT_DIR$/LAB9/zad3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638796041007</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="zad3LAB9">
+      <created>1638797186675</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638797186675</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,7 +234,8 @@
     <MESSAGE value="lab7_zad1-11" />
     <MESSAGE value="zad1LAB09" />
     <MESSAGE value="zad2LAB9" />
-    <option name="LAST_COMMIT_MESSAGE" value="zad2LAB9" />
+    <MESSAGE value="zad3LAB9" />
+    <option name="LAST_COMMIT_MESSAGE" value="zad3LAB9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
