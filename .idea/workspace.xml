@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="195b37a7-2027-407f-9bd8-5faf0a6d15f4" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/LAB7/zad10.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB7/zad10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB7/zad11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB7/zad1_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB7/zad3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB7/zad4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB7/zad5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB7/zad6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB7/zad7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB7/zad8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB7/zad9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WDPWiktorCzesnowski.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WDPWiktorCzesnowski.iml" afterDir="false" />
+    <list default="true" id="195b37a7-2027-407f-9bd8-5faf0a6d15f4" name="Changes" comment="zad2LAB9">
+      <change afterPath="$PROJECT_DIR$/LAB9/zad3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +31,37 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
   </component>
-  <component name="RunManager" selected="Python.zad10">
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings sdk-home="C:\Users\wczesnowski\PycharmProjects\LAB2\venv\Scripts\python.exe">
+        <option name="mySdkHome" value="C:\Users\wczesnowski\PycharmProjects\LAB2\venv\Scripts\python.exe" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.zad3">
+    <configuration name="zad1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\wczesnowski\PycharmProjects\LAB2\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LAB09" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LAB09/zad1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="zad10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="WDPWiktorCzesnowski" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,19 +83,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zad6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="WDPWiktorCzesnowski" />
+    <configuration name="zad2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LAB7" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\wczesnowski\PycharmProjects\LAB2\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LAB9" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LAB7/zad6.py" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LAB9/zad2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,40 +104,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zad7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="WDPWiktorCzesnowski" />
+    <configuration name="zad3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LAB7" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\wczesnowski\PycharmProjects\LAB2\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LAB9" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LAB7/zad7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="zad8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="WDPWiktorCzesnowski" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LAB7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LAB7/zad8.py" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LAB9/zad3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.zad3" />
+        <item itemvalue="Python.zad2" />
+        <item itemvalue="Python.zad1" />
         <item itemvalue="Python.zad10" />
         <item itemvalue="Python.zad9" />
-        <item itemvalue="Python.zad8" />
-        <item itemvalue="Python.zad7" />
-        <item itemvalue="Python.zad6" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +179,35 @@
       <option name="project" value="LOCAL" />
       <updated>1637580583255</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lab7_zad1-11">
+      <created>1637587968827</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637587968827</updated>
+    </task>
+    <task id="LOCAL-00004" summary="zad1LAB09">
+      <created>1638791490687</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638791490687</updated>
+    </task>
+    <task id="LOCAL-00005" summary="zad1LAB09">
+      <created>1638791541533</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638791541533</updated>
+    </task>
+    <task id="LOCAL-00006" summary="zad2LAB9">
+      <created>1638796041007</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1638796041007</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,7 +225,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab6_zadania1-7" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="lab7_zad1-11" />
+    <MESSAGE value="zad1LAB09" />
+    <MESSAGE value="zad2LAB9" />
+    <option name="LAST_COMMIT_MESSAGE" value="zad2LAB9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
