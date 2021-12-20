@@ -5,6 +5,6 @@ towar = [{'nazwa': 'banan', 'jednostka': 'kg', 'ilosc': 10, 'cena': 3},
          {'nazwa': 'jogurt naturalny', 'jednostka': 'szt.', 'ilosc': 20, 'cena': 1.5},
          {'nazwa': 'papier toaletowy 8 rolek', 'jednostka': 'op.', 'ilosc': 10, 'cena': 9}]
 
-
 nazwa = towar.get('nazwa')
-print(nazwa)
+def wyszukaj(towar, nazwa):
+    

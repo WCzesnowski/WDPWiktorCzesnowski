@@ -10,5 +10,9 @@ print(dict3)
 print(sum(dict3.values()))
 #4
 dict4 = {1: 10, 3: 50, 6: 4, 10: 2}
-dict3.update(dict4)
+for i in range(0,len(dict4)):
+    for j in range(0, len(dict3)):
+        if i in dict4 == j in dict3:
+            dict3[j] = dict3[j] + dict4[i]
+            print(dict3[j])
 print(dict3)
