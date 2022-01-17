@@ -39,7 +39,7 @@ class Player(pygame.sprite.Sprite):
     def move(self):
         inp = pygame.key.get_pressed()
         if inp[K_UP] and self.inAir == False:
-            for i in range(self.y_pos, 500 , -5):
+            for i in range(self.y_pos, 500 , -20):
                 self.y_pos = i
 
 
@@ -47,9 +47,11 @@ class Player(pygame.sprite.Sprite):
         screen.blit(self.surf, (self.x_pos, self.y_pos))
 
     def stance(self):
-        if self.y_pos == 300:
+        if self.y_pos == 550:
+            self.inAir = False
+        if self.y_pos != 550:
             self.inAir = True
-            self.y_pos = 550
+            self.y_pos += 1
 
 
 
@@ -91,6 +93,5 @@ def main():
 main()
 
 #def move(self, pressed_keys):
-
 
 
